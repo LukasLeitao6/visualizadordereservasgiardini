@@ -1,4 +1,4 @@
-# ☕ Giardini Planner
+# ☕ Giardini Planner de Reservas
 
 Sistema desktop desenvolvido em Python para gerenciamento de reservas e agenda do **Giardini Café**. O objetivo é substituir o planner físico por uma solução digital ágil e evitar conflitos de horários.
 
@@ -22,4 +22,5 @@ Sistema desktop desenvolvido em Python para gerenciamento de reservas e agenda d
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
+
 3. Criar um executável e o bat executavel
